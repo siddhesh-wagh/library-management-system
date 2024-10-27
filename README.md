@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-The **Library Management System** is a Java-based application designed to automate and manage the fundamental operations of a library. This console-based application enables users to add new books, issue books to borrowers, return issued books, and display issue details. Built with simplicity and functionality in mind, this system can be a valuable learning project for beginners and a practical tool for small libraries.
+The **Library Management System** is a college-based Java project designed to automate and manage the fundamental operations of a library. This console-based application enables users to add new books, issue books to borrowers, return issued books, and display issue details. Built with simplicity and functionality in mind, this system can be a valuable learning project for beginners and a practical tool for small libraries.
+
+This project includes a structured **architecture**, **project report**, and **proposal** to provide a comprehensive overview of the system design and implementation. For further details, feel free to reach out.
 
 ## Features
 
@@ -96,6 +98,15 @@ Additionally, a **Book** class encapsulates individual book properties and actio
 - **User Authentication**: Introduce user roles (e.g., admin, borrower) for secure access.
 - **Graphical User Interface**: Transition to a GUI-based system for easier usability.
 - **Enhanced Search and Sort**: Implement search and sorting features for efficient book management.
+
+## Project Documentation
+
+This project includes:
+- **Architecture Diagram**: Detailed system architecture for better understanding and scalability.
+- **Project Proposal**: Initial proposal outlining the goals, features, and project scope.
+- **Project Report**: A complete project report with documentation of classes, methods, and usage.
+
+For access to additional documentation or inquiries, contact **sid.website11@gmail.com**.
 
 ## Contributing
 
