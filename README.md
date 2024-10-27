@@ -53,19 +53,34 @@ Additionally, a **Book** class encapsulates individual book properties and actio
 
 ## How to Use
 
-1. Clone the repository:
+### Prerequisites
+1. **Java Development Kit (JDK)**: Ensure you have the JDK installed on your system. [Download the JDK](https://www.oracle.com/java/technologies/javase-downloads.html) if not already installed. To verify, run the following command in your terminal:
+   ```bash
+   java -version
+   ```
+
+### Setup Instructions
+
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/siddhesh-wagh/library-management-system.git
    ```
-2. Navigate to the project directory:
+
+2. **Navigate to the project directory**:
    ```bash
    cd library-management-system
    ```
-3. Compile and run the project:
-   ```bash
-   javac Project.java
-   java Project
-   ```
+
+3. **Compile and Run the Project**:
+   - **Compile**:
+     ```bash
+     javac Project.java
+     ```
+   - **Run**:
+     ```bash
+     java Project
+     ```
+
 4. Follow the menu prompts in the console to add, issue, return, and view details of books.
 
 ## Sample Usage
@@ -86,4 +101,4 @@ Additionally, a **Book** class encapsulates individual book properties and actio
 
 Contributions to the project are welcome! Feel free to open issues or submit pull requests to improve functionality or add new features.
 
----
+--- 
