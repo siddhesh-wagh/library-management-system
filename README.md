@@ -10,7 +10,7 @@ This project includes a structured **architecture**, **project report**, and **p
 Image of the project:
 
 ![Project Screenshot](assests/login.png)
-![](assests/login1.png)![](assests/login1.png)
+![](assests/login1.png)![](assests/login1.png)![](assests/login1.png)
 ## Features
 
 - **Add New Books**: Capture and store information for each book, including book name, ID, and price.
