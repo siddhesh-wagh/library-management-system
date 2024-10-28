@@ -9,8 +9,8 @@ This project includes a structured **architecture**, **project report**, and **p
 # My Project
 Image of the project:
 
-![Project Screenshot](assests/img.png)
-![](assests/login1.png)
+![Project Screenshot](assests/img1.png)
+![](assests/img2.png)
 ![](assests/login1.png)
 ![](assests/login1.png)
 ## Features
